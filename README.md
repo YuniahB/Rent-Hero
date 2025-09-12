@@ -19,11 +19,12 @@ project_files/
 storyboard.md
 capcut_project.capcut (optional)
 resolve_project.drp (optional)[200~
+
 ## Quick start
 1. Put your media files into  (see folders above).
 2. Open CapCut or DaVinci Resolve.
 3. Build the timeline using the included storyboard.
-4. Export at 1080p and upload 🎉
+4. Export at 1080p and upload 
 
 ## License
 Personal/educational use. Replace third-party assets with your own or check their licenses.
