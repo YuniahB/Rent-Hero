@@ -18,7 +18,7 @@ fonts/ # pixel/anime fonts
 project_files/
 storyboard.md
 capcut_project.capcut (optional)
-resolve_project.drp (optional)[200~
+resolve_project.drp (optional) [200~
 
 ## Quick start
 1. Put your media files into  (see folders above).
